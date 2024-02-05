@@ -5,6 +5,8 @@
 A platform to demonstrate your incomes and outcomes, and give you a 12 month forecast.
 Front-End built on top of Vue 3 in Vite, Back-End on top of Express.js & PostgreSQL.
 
+[Live Demo](https://fintelligent.onrender.com/)
+
 ## Front End Setup
 
 ```sh
