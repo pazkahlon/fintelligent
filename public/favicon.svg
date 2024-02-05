@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="114px" height="114px" viewBox="0 0 114 114" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group</title>
+    <defs>
+        <linearGradient x1="40.2054389%" y1="0%" x2="44.6807929%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#64E3C3" offset="0%"></stop>
+            <stop stop-color="#34D399" offset="100%"></stop>
+            <stop stop-color="#34D399" offset="100%"></stop>
+        </linearGradient>
+        <path d="M31.32,15.048 C29.232,10.656 26.064,7.776 21.672,6.552 L21.672,0 L12.888,0 L12.888,6.408 C6.912,8.064 3.024,13.248 3.024,19.584 C2.88,28.872 10.656,32.688 16.632,35.208 C20.88,37.008 24.12,39.312 24.12,42.264 C24.12,46.656 21.96,48.816 17.568,48.816 C12.816,48.816 9.504,45.432 7.56,38.592 L0,43.344 C1.368,49.896 6.192,55.224 12.888,56.88 L12.888,63.36 L21.672,63.36 L21.672,57.024 C28.944,55.512 33.48,50.04 33.48,41.76 C33.552,33.048 25.56,29.304 19.512,26.64 C15.408,24.696 11.952,22.32 11.952,19.152 C11.952,16.488 13.968,14.544 16.776,14.544 C19.584,14.544 21.96,16.344 23.76,19.872 L31.32,15.048 Z" id="path-2"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(1.000000, 1.000000)">
+            <circle id="Oval" stroke="#414141" fill="#000000" cx="56" cy="56" r="56"></circle>
+            <g id="$" transform="translate(39.756000, 24.120000)" fill-rule="nonzero">
+                <g>
+                    <use fill="#34D399" xlink:href="#path-2"></use>
+                    <use fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
